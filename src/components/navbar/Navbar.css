@@ -1,3 +1,16 @@
 header {
     background-color: #191919;
+    /* padding: 8px 20px!important; */
+}
+
+.btn__subscribe {
+    background: #335eea;
+    border-radius: 4px;
+    color: #fff;
+    font-style: normal;
+    font-size: 17px;
+    /* line-height: 25px; */
+    padding: 10px 12px;
+    max-width: 118px;
+    text-decoration: none
 }
