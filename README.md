@@ -8,4 +8,4 @@
 
 The application opens a basic web feature of **Kisi-Deals** 
 
-> Visit [Kisi-Deals Live Project](https://kisi-web.netlify.com/)
+> Visit [Kisi-Deals Live Project](https://kisi-web.netlify.app/)
