@@ -6,7 +6,7 @@
 - `cd 'kisi-web'` and run `npm install`
 - After installations, run `npm start` to start the application on `http://localhost:3000` on react and `sanity start` to start the application on `http://localhost:3333`.
 
-##### Automatic push release announcement into my Discord channel of my Discord server via webhook through Github
+##### Automatic push release announcement into my Discord channel of my Discord server via Github Webhook 
 
 The application opens a basic web feature of **Kisi-Deals** 
 
